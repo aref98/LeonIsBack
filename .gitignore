@@ -1,0 +1,139 @@
+# Ignore auto-generated Visual Studio/MonoDevelop files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Asset meta data should only be versioned with 5.0.0f4+
+# https://unity3d.com/unity/whats-new/unity-5.0.0
+[Tt]exture[Imp]orter/
+[Uu]nity[Ll]og/
+[Uu]ser[Ss]ettings/
+
+# Editor folders and files
+[Ee]ditor/
+[Cc]ache/
+[Ee]ditorUserSettings/
+[Ee]ditor[Ss]ettings/
+
+# Visual Studio Code
+.vscode/
+.vscode/*
+
+# Ignore all .csproj files
+*.csproj
+
+# Ignore all .unityproj files
+*.unityproj
+
+# Ignore all .sln files
+*.sln
+
+# Ignore all .suo files
+*.suo
+
+# Ignore all .tmp files
+*.tmp
+
+# Ignore all .user files
+*.user
+
+# Ignore all .userprefs files
+*.userprefs
+
+# Ignore all .pidb files
+*.pidb
+
+# Ignore all .booproj files
+*.booproj
+
+# Ignore all .svd files
+*.svd
+
+# Ignore all .pdb files
+*.pdb
+
+# Ignore all .mdb files
+*.mdb
+
+# Ignore all .opendb files
+*.opendb
+
+# Ignore all .VC.db files
+*.VC.db
+
+# Ignore all .pidb.meta files
+*.pidb.meta
+
+# Ignore all .pdb.meta files
+*.pdb.meta
+
+# Ignore all .mdb.meta files
+*.mdb.meta
+
+# Ignore all .opendb.meta files
+*.opendb.meta
+
+# Ignore all .VC.db.meta files
+*.VC.db.meta
+
+# Ignore build artifacts
+[Bb]uild/
+
+# Ignore Unity generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.opendb.meta
+*.VC.db.meta
+
+# Ignore builds
+[Bb]uilds/
+
+# Ignore crash reports
+[Cc]rash/Reports/
+
+# Ignore Memory Captures
+[Mm]emoryCaptures/
+
+# Compiled files
+*.dll
+*.exe
+*.ilproj
+*.lib
+*.manifest
+*.msi
+*.nupkg
+*.props
+*.targets
+
+# Web files
+*.jsp
+*.jar
+*.war
+
+# Ignore generated files
+Assembly-CSharp.csproj
+Leon Is Back!.sln
+lib_burst_generated.txt
+tempCodeRunnerFile.cpp
+
+# Unity-specific files to ignore
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Logs/
+/UserSettings/
+/MemoryCaptures/
+
+# Ensure Assets and ProjectSettings are included
+!/[Aa]ssets/
+!/[Pp]rojectSettings/
+
+# Ignore specific large asset files or temporary files within Assets if necessary
+# Example: Large source files for textures
+# Assets/Textures/Source/
